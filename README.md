@@ -1,5 +1,10 @@
 <h1 align="center">Oi 👋, eu sou o Wagner</h1>
-<h3 align="center">Um Desenvolvedor Front End em constante desenvolvimento!</h3>
+<h3 align="center">"Codificando sonhos em sites, apaixonado pelo web design e transformando ideias em realidade."
+
+
+
+
+</h3>
 
 - 📫 Entre em Contato: **wagner.godinho@gmail.com**
 
